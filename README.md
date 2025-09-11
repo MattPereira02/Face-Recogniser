@@ -53,7 +53,7 @@ cd facerecogniser
 
 ### Build & Run
 
-- Connect an Android device or start an emulator
+- Connect an Android device
 - Click Run in Android Studio
 
 ## Performance
