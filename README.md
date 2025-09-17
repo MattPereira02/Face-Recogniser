@@ -36,8 +36,8 @@ app/
 
 ### Clone repository
 ```
-git clone https://github.com/yourusername/facerecogniser.git
-cd facerecogniser
+git clone https://github.com/MattPereira02/Face-Recogniser.git
+cd Face-Recogniser
 ```
 ### Open in Android Studio
 
