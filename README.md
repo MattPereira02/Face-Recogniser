@@ -60,8 +60,8 @@ cd facerecogniser
 
 | Model         | Input Shape | Avg. Inference Time (ms) | Accuracy (Test Set) |
 | ------------- | ----------- | ------------------------ | ------------------- |
-| Emotion Model | 64×64×3     | \~3.1 ms                 | \~80%               |
-| Gender Model  | 128×128×3   | \~1.6 ms                 | \~85%               |
+| Emotion Model | 64×64×3     | \~3.2 ms                 | \~80%               |
+| Gender Model  | 128×128×3   | \~1.7 ms                 | \~85%               |
 | Age Model     | 200×200×3   | \~4.6 ms                 | MAE ≈ 9.5 years     |
 
 ## License
